@@ -1,0 +1,11 @@
+[
+    {
+        "webhook_image": "https://example.com/example.png",
+        "webhook_title": "Webhook Embed title",
+        "webhook_message": "Message before embed",
+        "webhook_username": "CaptainHook",
+        "game_id": 999999,
+        "webhook_url": "https://discord.com/api/webhooks/1111111111111/ialdsuvndgfiovnbsevminngmsicgsovdhnmrgoc",
+        "threshold": 1
+    }
+]
